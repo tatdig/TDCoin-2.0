@@ -2,6 +2,7 @@
 TDCoin evolution into v 2.0
 Plans:
   1) Changing block packaging
+  2) Maybe changing block generation time
   ...
 
-ETA 2024
+ETA 2023
